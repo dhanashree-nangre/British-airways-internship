@@ -8,6 +8,9 @@
 
 This repository contains the solutions for the British Airways virtual internship available on Forage. The project involves analyzing customer reviews and developing machine learning models to predict booking outcomes. The focus is on performing sentiment analysis, topic modeling, and creating a predictive random forest model to determine whether a booking will be made based on customer interactions and reviews.
 
+Dashboard example:
+https://github.com/dhanashree-nangre/British-airways-internship/blob/main/Dashboard%201.png
+
 **Repository Structure**
 
 **1. BA_reviews.ipynb**
